@@ -14,6 +14,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <stdlib>
 using namespace std;
 int main() {
     // Declare a variable named 'input_string' to hold our input.
